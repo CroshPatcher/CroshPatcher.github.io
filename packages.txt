@@ -1,0 +1,8 @@
+Name: LFOS Packages
+Description: The main repository for LFOS
+Updated: 0
+Cache: 60000
+
+:helloworld
+Description: Hello World!
+Version: 0.1
